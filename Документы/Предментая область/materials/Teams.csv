@@ -1,0 +1,173 @@
+id;name;countrycode;flag_url;region
+385;Russia;RUS;russia.png;Europe
+386;Luxembourg;LUX;luxembourg.png;Europe
+387;Czech Republic;CZH;czech-republic.png;Europe
+388;Armenia;ARM;armenia.png;Asia
+389;FYR Macedonia;MKD;macedonia.png;Europe
+390;Wales;WAL;wales.png;Europe
+391;Norway;NOR;norway.png;Europe
+392;Cyprus;CYP;cyprus.png;Europe
+393;Malta;MLT;malta.png;Europe
+394;Denmark;DEN;denmark.png;Europe
+395;Romania;ROU;romania.png;Europe
+396;Hungary;HUN;hungary.png;Europe
+397;Turkey;TUR;turkey.png;Europe
+398;Andorra;AND;andorra.png;Europe
+399;Ukraine;UKR;ukraine.png;Europe
+400;San Marino;SMR;san-marino.png;Europe
+401;Latvia;LVA;latvia.png;Europe
+402;Lithuania;LTU;lithuania.png;Europe
+403;Bosnia and Herzegovina;BIH;bosnia-and-herzegovina.png;Europe
+404;Slovakia;SVK;slovakia.png;Europe
+405;Georgia;GEO;georgia.png;Europe
+406;France;FRA;france.png;Europe
+407;Estonia;EST;estonia.png;Europe
+408;Netherlands;NED;netherlands.png;Europe
+409;Slovenia;SVN;slovenia.png;Europe
+410;Albania;ALB;albania.png;Europe
+411;Switzerland;SUI;switzerland.png;Europe
+412;Iceland;ISL;iceland.png;Europe
+413;Finland;FIN;finland.png;Europe
+414;Spain;ESP;spain.png;Europe
+415;Serbia;SRB;serbia.png;Europe
+416;Croatia;CRO;croatia.png;Europe
+417;Italy;ITA;italy.png;Europe
+418;Bulgaria;BUL;bulgaria.png;Europe
+419;Germany;GER;germany.png;Europe
+420;Austria;AUT;austria.png;Europe
+421;Republic of Ireland;ROI;ireland.png;Europe
+422;Sweden;SWE;sweden.png;Europe
+423;Northern Ireland;NIR;north-ireland.png;Europe
+424;Portugal;POR;portugal.png;Europe
+425;Liechtenstein;LIE;liechtenstein.png;Europe
+426;Greece;GRE;greece.png;Europe
+427;Poland;POL;poland.png;Europe
+428;Montenegro;MNE;montenegro.png;Europe
+429;Scotland;SCO;scotland.png;Europe
+430;Belgium;BEL;belgium.png;Europe
+431;England;ENG;england.png;Europe
+432;Moldova;MDA;moldova.png;Europe
+433;Israel;ISR;israel.png;Asia
+434;Azerbaijan;AZE;azerbaijan.png;Asia
+435;Kazakhstan;KAZ;kazakhstan.png;Asia
+436;Faroe Islands ;FRO;faroe-islands.png;Europe
+437;Belarus;BLR;belarus.png;Europe
+523;Chile;CHI;chile.png;America
+524;United States;USA;usa.png;America
+624;South Africa;RSA;south-africa.png;Africa
+625;Brazil;BRA;brazil.png;America
+637;Mexico;MEX;mexico.png;America
+638;Ecuador;ECU;ecuador.png;America
+669;Cameroon;CMR;cameroon.png;Africa
+670;Australia;AUS;australia.png;Oceania
+671;Colombia;COL;colombia.png;America
+672;Ivory Coast;CIV;ivory-coast.png;Africa
+673;Japan;JPN;japan.png;Asia
+674;Uruguay;URU;uruguay.png;America
+675;Costa Rica;CRC;costa-rica.png;America
+676;Honduras;HON;honduras.png;America
+677;Argentina;ARG;argentina.png;America
+679;Iran;IRN;iran.png;Asia
+680;Nigeria;NGA;nigeria.png;Africa
+681;Ghana;GHA;ghana.png;Africa
+682;Algeria;ALG;algeria.png;Africa
+683;Korea Republic;KOR;south-korea.png;Asia
+708;Peru;PER;peru.png;America
+709;Bolivia;BOL;bolivia.png;America
+710;Paraguay;PAR;paraguay.png;America
+711;Panama;PAN;panama.png;America
+712;Tunisia;TUN;tunisia.png;Africa
+713;El Salvador;SLV;el-salvador.png;America
+714;Jamaica;JAM;jamaica.png;America
+751;Angola;ANG;angola.png;Africa
+752;Egypt;EGY;egypt.png;Africa
+753;Senegal;SEN;senegal.png;Africa
+754;Mali;MLI;mali.png;Africa
+1061;Gibraltar;GIB;;Europe
+1155;Equatorial Guinea;EQG;equatorial-guinea.png;Africa
+1156;Burkina Faso;BFA;burkina-faso.png;Africa
+1157;Congo;CGO;republic-of-the-congo.png;Africa
+1158;Gabon;GAB;gabon.png;Africa
+1159;Zambia;ZAM;zambia.png;Africa
+1160;DR Congo;COD;democratic-republic-of-the-congo.png;Africa
+1161;Cape Verde;CPV;cape-verde.png;Africa
+1162;Guinea;GUI;guinea.png;Africa
+1205;Oman;OMA;oman.png;Asia
+1206;Kuwait;KUW;kuwait.png;Asia
+1208;Uzbekistan;UZB;uzbekistan.png;Asia
+1209;Korea DPR;PRK;north-korea.png;Asia
+1210;China PR;CHN;china.png;Asia
+1211;Saudi Arabia;KSA;saudi-arabia.png;Asia
+1213;United Arab Emirates;UAE;united-arab-emirates.png;Asia
+1214;Qatar;QAT;qatar.png;Asia
+1215;Bahrain;BHR;bahrain.png;Asia
+1216;Palestine;PLE;palestine.png;Asia
+1217;Jordan;JOR;jordan.png;Asia
+1218;Iraq;IRQ;iraq.png;Asia
+1318;Venezuela;VEN;venezuela.png;America
+2129;Djibouti;DIJ;;Africa
+2130;Guatemala;GUA;;America
+2131;Sudan;SDN;sudan.png;Africa
+2190;Malawi;MWI;malawi.png;Africa
+2229;Laos;LAO;laos.png;Asia
+2230;Afghanistan;AFG;afghanistan.png;Asia
+2231;Bangladesh;BAN;;Asia
+2232;Cambodia;CAM;cambodia.png;Asia
+2233;Cuba;CUB;;America
+2234;Haiti;HAI;;America
+2235;Canada;CAN;;America
+2236;Trinidad & Tobago;TRI;;America
+2237;Malaysia;MAS;malaysia.png;Asia
+2238;Timor-Leste;TLS;east-timor.png;Asia
+2239;Kyrgyzstan;KGZ;;Asia
+2240;Tajikistan;TJK;;Asia
+2241;Bhutan;BHU;bhutan.png;Asia
+2242;Hong Kong;HKG;hong-kong.png;Asia
+2243;Maldives;MDV;maldives.png;Asia
+2244;Guam;GUM;guam.png;Oceania
+2245;India;IND;india.png;Asia
+2246;Turkmenistan;TKM;turkmenistan.png;Asia
+2247;Singapore;SIN;singapore.png;Asia
+2248;Syria;SYR;syria.png;Asia
+2249;Thailand;THA;;Asia
+2250;Chinese Taipei;TPE;;Asia
+2251;Indonesia;IDN;;Asia
+2252;Vietnam;VIE;;Asia
+2253;Lebanon;LIB;lebanon.png;Asia
+2254;Myanmar;MYA;myanmar.png;Asia
+2256;Philippines;PHI;philippines.png;America
+2257;Yemen;YEM;yemen.png;Asia
+2260;Bermuda;BER;;America
+2261;Puerto Rico;PUR;;America
+2262;Brunei;BRU;;Asia
+2415;Togo;TOG;;Africa
+2416;Liberia;LIB;;Africa
+2417;Central African Republic;CAF;central-african-republic.png;Africa
+2418;Madagascar;MAD;madagascar.png;Africa
+2419;Benin;BEN;benin.png;Africa
+2420;South Sudan;SSD;south-sudan.png;Africa
+2421;Uganda;UGA;uganda.png;Africa
+2422;Botswana;BOT;botswana.png;Africa
+2423;Comoros;COM;comoros.png;Africa
+2424;Kenya;KEN;kenya.png;Africa
+2425;Guinea-Bissau;GNB;guinea-bissau.png;Africa
+2426;Morocco;MAR;morocco.png;Africa
+2427;Libya;LBY;libya.png;Africa
+2428;São Tomé and Príncipe;STP;sao-tome-and-principe.png;Africa
+2429;Tanzania;TAN;tanzania.png;Africa
+2430;Chad;CHA;chad.png;Africa
+2431;Mozambique;MOZ;mozambique.png;Africa
+2432;Rwanda;RWA;rwanda.png;Africa
+2433;Mauritius;MRI;mauritius.png;Africa
+2434;Sierra Leone;SLE;sierra-leone.png;Africa
+2435;Ethiopia;ETH;ethiopia.png;Africa
+2436;Lesotho;LES;lesotho.png;Africa
+2437;Seychelles;SEY;seychelles.png;Africa
+2438;Niger;NIG;niger.png;Africa
+2439;Namibia;NAM;namibia.png;Africa
+2440;Burundi;BDI;burundi.png;Africa
+2441;Zimbabwe;ZIM;zimbabwe.png;Africa
+2442;Swaziland;SWZ;swaziland.png;Africa
+2443;Gambia;GAM;gambia.png;Africa
+2444;Mauritania;MTN;mauritania.png;Africa
+3233;Saint Vincent and the Grenadines;SVG;saint-vincent-and-the-grenadines.png;America
