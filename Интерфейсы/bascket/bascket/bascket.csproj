@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C8BCB68-85E0-43D6-8A7A-7DD71B5647E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>bascket</RootNamespace>
+    <AssemblyName>bascket</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEditPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditPlayer.Designer.cs">
+      <DependentUpon>AddEditPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditTeam.Designer.cs">
+      <DependentUpon>AddEditTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditTournaments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditTournaments.Designer.cs">
+      <DependentUpon>AddEditTournaments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllocateTeamsToGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllocateTeamsToGroup.Designer.cs">
+      <DependentUpon>AllocateTeamsToGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditGame.Designer.cs">
+      <DependentUpon>EditGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage teams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage teams.Designer.cs">
+      <DependentUpon>Manage teams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageExecutuion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageExecutuion.Designer.cs">
+      <DependentUpon>ManageExecutuion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageFinalGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageFinalGame.Designer.cs">
+      <DependentUpon>ManageFinalGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageGroupStageGames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageGroupStageGames.Designer.cs">
+      <DependentUpon>ManageGroupStageGames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageQuarterFinalGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageQuarterFinalGame.Designer.cs">
+      <DependentUpon>ManageQuarterFinalGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageRoundof16Games.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageRoundof16Games.Designer.cs">
+      <DependentUpon>ManageRoundof16Games.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageSemiFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageSemiFinal.Designer.cs">
+      <DependentUpon>ManageSemiFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageTournaments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageTournaments.Designer.cs">
+      <DependentUpon>ManageTournaments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddEditPlayer.resx">
+      <DependentUpon>AddEditPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditTeam.resx">
+      <DependentUpon>AddEditTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditTournaments.resx">
+      <DependentUpon>AddEditTournaments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllocateTeamsToGroup.resx">
+      <DependentUpon>AllocateTeamsToGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditGame.resx">
+      <DependentUpon>EditGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage teams.resx">
+      <DependentUpon>Manage teams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageExecutuion.resx">
+      <DependentUpon>ManageExecutuion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageFinalGame.resx">
+      <DependentUpon>ManageFinalGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageGroupStageGames.resx">
+      <DependentUpon>ManageGroupStageGames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageQuarterFinalGame.resx">
+      <DependentUpon>ManageQuarterFinalGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageRoundof16Games.resx">
+      <DependentUpon>ManageRoundof16Games.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageSemiFinal.resx">
+      <DependentUpon>ManageSemiFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageTournaments.resx">
+      <DependentUpon>ManageTournaments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

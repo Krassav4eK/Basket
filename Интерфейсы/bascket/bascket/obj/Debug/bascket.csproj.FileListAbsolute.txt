@@ -1,0 +1,26 @@
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.AddEditPlayer.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.AddEditTeam.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.AddEditTournaments.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.AllocateTeamsToGroup.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.EditGame.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.Form1.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageTeams.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageExecutuion.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageFinalGame.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageGroupStageGames.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageQuarterFinalGame.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageRoundof16Games.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageSemiFinal.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.ManageTournaments.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.Properties.Resources.resources
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.csproj.GenerateResource.Cache
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\bascket\bascket\bin\Debug\bascket.exe.config
+C:\Users\Anna\Desktop\bascket\bascket\bin\Debug\bascket.exe
+C:\Users\Anna\Desktop\bascket\bascket\bin\Debug\bascket.pdb
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.exe
+C:\Users\Anna\Desktop\bascket\bascket\obj\Debug\bascket.pdb
+C:\Users\Mike\Desktop\7 семестр\Программная инженерия\Интерфейсы\bascket\bascket\bin\Debug\bascket.exe.config
+C:\Users\Mike\Desktop\7 семестр\Программная инженерия\Интерфейсы\bascket\bascket\obj\Debug\bascket.exe
+C:\Users\Mike\Desktop\7 семестр\Программная инженерия\Интерфейсы\bascket\bascket\obj\Debug\bascket.pdb
